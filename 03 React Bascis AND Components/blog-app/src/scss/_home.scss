@@ -1,0 +1,27 @@
+.home {
+  margin-top: 50px;
+  padding: 0px 10px;
+}
+
+.para-section {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 50px 0px;
+
+  .para-btn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30vw;
+
+    button {
+      margin: 10px 0px;
+    }
+  }
+
+  .para-content {
+    width: 90vw;
+  }
+}

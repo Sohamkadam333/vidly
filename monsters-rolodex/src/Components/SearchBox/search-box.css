@@ -1,0 +1,10 @@
+input {
+        padding: 10px;
+        border: rgb(104, 104, 104) 2px solid;
+        border-radius: 5px;
+        outline: none;
+        font-size: 20px;
+        font-family: 'Actor',
+                sans-serif;
+        width: 400px;
+}

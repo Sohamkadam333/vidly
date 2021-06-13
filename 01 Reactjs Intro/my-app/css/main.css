@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: lightcoral;
+}
+
+.App .color-primary {
+  color: coral;
+}
+/*# sourceMappingURL=main.css.map */

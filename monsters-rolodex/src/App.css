@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Actor&family=Syncopate:wght@700&display=swap');
+
+body {
+        background: linear-gradient(90deg, hsla(141, 54%, 86%, 1) 0%, hsla(333, 73%, 85%, 1) 50%, hsla(211, 58%, 79%, 1) 100%);
+}
+
+.App {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+
+}
+
+h1 {
+        font-family: 'Syncopate',
+                sans-serif;
+}
