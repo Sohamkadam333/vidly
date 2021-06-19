@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/vidly/static/js/main.35766065.chunk.js",
+    "main.js.map": "/vidly/static/js/main.35766065.chunk.js.map",
+    "runtime-main.js": "/vidly/static/js/runtime-main.b3120e07.js",
+    "runtime-main.js.map": "/vidly/static/js/runtime-main.b3120e07.js.map",
+    "static/css/2.658248ec.chunk.css": "/vidly/static/css/2.658248ec.chunk.css",
+    "static/js/2.4a75aedf.chunk.js": "/vidly/static/js/2.4a75aedf.chunk.js",
+    "static/js/2.4a75aedf.chunk.js.map": "/vidly/static/js/2.4a75aedf.chunk.js.map",
+    "index.html": "/vidly/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/vidly/static/css/2.658248ec.chunk.css.map",
+    "static/js/2.4a75aedf.chunk.js.LICENSE.txt": "/vidly/static/js/2.4a75aedf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3120e07.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.4a75aedf.chunk.js",
+    "static/js/main.35766065.chunk.js"
+  ]
+}
